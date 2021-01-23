@@ -48,7 +48,7 @@ API for exit ParkingLot
 <br>
   5. Now direct to TeamWave folder for starting the django server.
 
-    $ cd Multi-level-Parking-Lot.
+    $ cd Multi-level-Parking-Lot
 
 <br>
   6. Now before running the server, we have to setup database, so run.
